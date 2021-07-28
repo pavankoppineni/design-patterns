@@ -7,7 +7,7 @@
 * https://deviq.com/design-patterns/design-patterns-overview
 
 
-## Composition Root
+## Composition Root Pattern
 
 * https://medium.com/@cfryerdev/dependency-injection-composition-root-418a1bb19130
 * https://freecontent.manning.com/dependency-injection-in-net-2nd-edition-understanding-the-composition-root/
