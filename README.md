@@ -19,6 +19,6 @@
 * https://contactbalasrinivas.medium.com/net-core-app-repository-pattern-and-unit-of-work-with-transaction-using-dapper-7c48f4ab3f0d
 
 
-## List of design patterns
+## List of Design Patterns
 
 * [Event Bus Pattern](./src/DesignPatterns/EventBusPattern)
